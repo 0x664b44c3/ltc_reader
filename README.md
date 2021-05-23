@@ -1,6 +1,10 @@
 # ltc_reader
 A linear timecode reader module for AVR-microcontrollers
 
+This code comes with no warranties. Use at your own risk.
+
+Any trademarks that may be contained within the code or the documentation ore property of their respective owners.
+
 ## Functionality
 
  * Decodes the biphase mark code
